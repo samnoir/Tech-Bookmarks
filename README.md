@@ -31,3 +31,19 @@ https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-chall
 
 - Ionic App Builder
 http://ionic.io/products/creator?utm_source=ionichome&utm_medium=slider&utm_campaign=Creator%20Framework%20CTA
+
+
+Couchbase
+-----------------
+- Eventual Consistency
+http://developer.couchbase.com/documentation/server/current/indexes/mapreduce-view-consistency.html
+
+- Stuff about how to decide on the number of buckets
+http://blog.couchbase.com/10-things-developers-should-know-about-couchbase
+
+- Hapi and REST
+https://nickolus.svbtle.com/writing-a-rest-api-with-hapijs
+
+- MongoDB vs CouchBase
+http://www.infoworld.com/article/2613970/nosql/nosql-showdown--mongodb-vs--couchbase.html
+
