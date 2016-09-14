@@ -32,6 +32,12 @@ https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-chall
 - Ionic App Builder
 http://ionic.io/products/creator?utm_source=ionichome&utm_medium=slider&utm_campaign=Creator%20Framework%20CTA
 
+- HTTPie, a curl alternative. Remember to install it at home
+https://httpie.org/
+
+- HTTPBin -- for testing HTTP
+http://httpbin.org/
+
 
 Couchbase
 -----------------
@@ -47,3 +53,15 @@ https://nickolus.svbtle.com/writing-a-rest-api-with-hapijs
 - MongoDB vs CouchBase
 http://www.infoworld.com/article/2613970/nosql/nosql-showdown--mongodb-vs--couchbase.html
 
+
+Hapi
+--------
+- Why I like happy better than Express -- Definitely worth a read
+https://www.ethanmick.com/why-i-like-hapi-more-than-express/
+
+
+
+REST
+--------
+- REST return codes and stuff
+http://www.restapitutorial.com/lessons/httpmethods.html
