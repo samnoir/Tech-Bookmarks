@@ -1,7 +1,7 @@
 # Tech-Bookmarks
 Stuff I save
 
-Apache Cordova/Adobe PhoneGap
+Apache Cordova/Adobe PhoneGap/Mobile Development
 ------------------------------
 
 * https://www.smashingmagazine.com/
@@ -9,6 +9,7 @@ Apache Cordova/Adobe PhoneGap
 * http://docs.phonegap.com/
 * https://github.com/phonegap/phonegap-webview-ios
 * https://github.com/Red-Folder/bgs-core/wiki/Using-the-MyService-Sample -- to run a background service in Cordova
+* http://codewithchris.com/deploy-your-app-on-an-iphone/ -- Deploying an app on iPhone
 
 -----------------------------------------
 
