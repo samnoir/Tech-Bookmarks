@@ -39,6 +39,9 @@ https://httpie.org/
 - HTTPBin -- for testing HTTP
 http://httpbin.org/
 
+- Gulp -- introduction
+https://markgoodyear.com/2014/01/getting-started-with-gulp/
+
 
 Couchbase
 -----------------
