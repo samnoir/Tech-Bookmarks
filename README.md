@@ -42,6 +42,10 @@ http://httpbin.org/
 - Gulp -- introduction
 https://markgoodyear.com/2014/01/getting-started-with-gulp/
 
+- MashApe
+http://stackshare.io/mashape/how-mashape-manages-over-15000-apis-and-microservices
+
+
 
 Couchbase
 -----------------
@@ -51,21 +55,26 @@ http://developer.couchbase.com/documentation/server/current/indexes/mapreduce-vi
 - Stuff about how to decide on the number of buckets
 http://blog.couchbase.com/10-things-developers-should-know-about-couchbase
 
-- Hapi and REST
-https://nickolus.svbtle.com/writing-a-rest-api-with-hapijs
-
 - MongoDB vs CouchBase
 http://www.infoworld.com/article/2613970/nosql/nosql-showdown--mongodb-vs--couchbase.html
 
 
 Hapi
 --------
-- Why I like happy better than Express -- Definitely worth a read
+- Why I like hapi better than Express -- Definitely worth a read
 https://www.ethanmick.com/why-i-like-hapi-more-than-express/
 
 
+- Hapi and REST
+https://nickolus.svbtle.com/writing-a-rest-api-with-hapijs
 
 REST
 --------
 - REST return codes and stuff
 http://www.restapitutorial.com/lessons/httpmethods.html
+
+Erlang
+--------
+- The book
+http://learnyousomeerlang.com/starting-out
+
