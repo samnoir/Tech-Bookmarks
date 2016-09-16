@@ -45,6 +45,9 @@ https://markgoodyear.com/2014/01/getting-started-with-gulp/
 - MashApe
 http://stackshare.io/mashape/how-mashape-manages-over-15000-apis-and-microservices
 
+- MockBin
+https://mockbin.org/
+
 
 
 Couchbase
