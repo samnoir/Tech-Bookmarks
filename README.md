@@ -81,3 +81,9 @@ Erlang
 - The book
 http://learnyousomeerlang.com/starting-out
 
+Generators
+------------------
+- ES6 Generators https://davidwalsh.name/es6-generators
+- Promises https://davidwalsh.name/promises
+- Ack http://beyondgrep.com/
+- Broken Link Checker https://github.com/stevenvachon/broken-link-checker
