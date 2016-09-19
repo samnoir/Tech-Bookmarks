@@ -87,3 +87,4 @@ Generators
 - Promises https://davidwalsh.name/promises
 - Ack http://beyondgrep.com/
 - Broken Link Checker https://github.com/stevenvachon/broken-link-checker
+- JWT https://jwt.io/
